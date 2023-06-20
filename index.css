@@ -43,5 +43,6 @@ section{
 @media (max-width: 480px){
     section{
         width: 380px;
+        margin-bottom: 5vh;
     }
 }
